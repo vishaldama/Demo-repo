@@ -1,2 +1,3 @@
-# Demo-repo
-Demo repository for getting started
+# Demo
+
+Just getting started!
